@@ -2,7 +2,7 @@
 title: "Holy cow!"
 ---
 
-### I have a webpage!
+### I have a webpage! Look what I did :D
 
 And I can put all kinds of stuff on it!
 
