@@ -5,3 +5,18 @@ title: "Holy cow!"
 ### I have a webpage!
 
 And I can put all kinds of stuff on it!
+
+
+##adding some links - external
+
+I like [google](https://www.google.com) #how to embed links
+
+##adding some links - internal
+
+I can link directly to my [about page](about.html).
+
+## adding picture to website
+
+Kitties and puppies:
+
+<img src="images/dog_pic_2.jpg" style="width:75%">
